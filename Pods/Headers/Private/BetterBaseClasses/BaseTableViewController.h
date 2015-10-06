@@ -1,0 +1,1 @@
+../../../BetterBaseClasses/BetterBaseClasses/Controllers/BaseTableViewController.h

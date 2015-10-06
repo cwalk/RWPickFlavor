@@ -1,0 +1,1 @@
+../../../BetterBaseClasses/BetterBaseClasses/Views/BaseTableViewCell.h
